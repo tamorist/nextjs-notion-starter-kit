@@ -50,7 +50,7 @@ export default siteConfig({
 
   // whether to use the default notion navigation style or a custom one with links to
   // important pages. To use `navigationLinks`, set `navigationStyle` to `custom`.
-  navigationStyle: 'default'
+  navigationStyle: 'default',
   // navigationStyle: 'custom',
   // navigationLinks: [
   //   {
@@ -62,4 +62,10 @@ export default siteConfig({
   //     pageId: '6a29ebcb935a4f0689fe661ab5f3b8d1'
   //   }
   // ]
+  navigationLinks: [ 
+    { title: 'Open Ledger', pageId: '3da0f0df2799803aa143eb809e4aa06e' }, 
+    { title: 'Youth GCC', pageId: '3da0f0df2799800a9679f9847424793d' },
+    { title: 'Specifications', pageId: '3da0f0df27998089b4fddad3764ba62d' }, 
+    { title: '🇯🇵 JP', pageId: '3da0f0df27998061874edf940bb48fcd' }
+  ]
 })

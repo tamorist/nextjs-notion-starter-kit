@@ -67,11 +67,5 @@ export default siteConfig({
     { title: 'Youth GCC', pageId: '3da0f0df2799800a9679f9847424793d' },
     { title: 'Specifications', pageId: '3da0f0df27998089b4fddad3764ba62d' }, 
     { title: '🇯🇵 JP', pageId: '3da0f0df27998061874edf940bb48fcd' }
-  ],
-  
-  // 修正前（10分間キャッシュを保持する設定になっている場合など）
-  // revalidateTime: 600, 
-
-  // 修正後（10秒ごとにNotionの最新情報をチェックしに行く）
-  revalidateTime: 10
+  ]
 })

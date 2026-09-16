@@ -14,12 +14,12 @@ export default siteConfig({
   author: 'Tatsuya Mori',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: 'Planetary-OS Official Site',
 
   // social usernames (optional)
-  twitter: 'transitive_bs',
-  github: 'transitive-bullshit',
-  linkedin: 'fisch2',
+  twitter: 'ttmori',
+  github: 'tamorist',
+  // linkedin: 'fisch2',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
@@ -50,8 +50,8 @@ export default siteConfig({
 
   // whether to use the default notion navigation style or a custom one with links to
   // important pages. To use `navigationLinks`, set `navigationStyle` to `custom`.
-  navigationStyle: 'default',
-  // navigationStyle: 'custom',
+  // navigationStyle: 'default',
+   navigationStyle: 'custom',
   // navigationLinks: [
   //   {
   //     title: 'About',

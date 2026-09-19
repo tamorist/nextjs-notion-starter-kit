@@ -62,7 +62,6 @@ export default siteConfig({
   //     pageId: '6a29ebcb935a4f0689fe661ab5f3b8d1'
   //   }
   // ]
-  
   navigationLinks: [ 
     { title: 'Actions', pageId: '3df0f0df2799804ab9a4ed0b180d0353' }, 
     { title: 'Specifications', pageId: '3da0f0df27998089b4fddad3764ba62d' }, 

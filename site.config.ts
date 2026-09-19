@@ -63,9 +63,10 @@ export default siteConfig({
   //   }
   // ]
   navigationLinks: [ 
-    { title: 'Open Ledger', pageId: '3da0f0df2799803aa143eb809e4aa06e' }, 
-    { title: 'Youth GCC', pageId: '3da0f0df2799800a9679f9847424793d' },
+    { title: 'Actions', pageId: '3df0f0df2799804ab9a4ed0b180d0353' }, 
     { title: 'Specifications', pageId: '3da0f0df27998089b4fddad3764ba62d' }, 
+    { title: 'Info', pageId: '3e00f0df27998042ac09d612445fd39c' },
+    { title: 'Contact', pageId: '3e00f0df279980d2aa03d77a36f90dca' },
     { title: '🇯🇵 JP', pageId: '3da0f0df27998061874edf940bb48fcd' }
   ]
 })

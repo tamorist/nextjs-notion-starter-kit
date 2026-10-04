@@ -67,6 +67,6 @@ export default siteConfig({
     { title: 'Specifications', pageId: '3da0f0df27998089b4fddad3764ba62d' }, 
     { title: 'Info', pageId: '3e00f0df27998042ac09d612445fd39c' },
     { title: 'Contact', pageId: '3e00f0df279980d2aa03d77a36f90dca' },
-    { title: '🇯🇵 JP', pageId: '3da0f0df27998061874edf940bb48fcd' }
+    { title: '🇯🇵 JP', pageId: '3ea0f0df2799805fb72ddc7d6f2184c0' }
   ]
 })

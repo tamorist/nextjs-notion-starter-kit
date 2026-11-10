@@ -18,7 +18,7 @@ export default siteConfig({
 
   // social usernames (optional)
   twitter: 'ttmori',
-  // github: 'tamorist',
+  github: 'tamorist',
   // linkedin: 'fisch2',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
@@ -64,9 +64,10 @@ export default siteConfig({
   // ]
   
   navigationLinks: [ 
-    { title: 'Actions', pageId: '3df0f0df2799804ab9a4ed0b180d0353' }, 
-    { title: 'Specifications', pageId: '3da0f0df27998089b4fddad3764ba62d' }, 
-    { title: 'Info', pageId: '3e00f0df27998042ac09d612445fd39c' },
+    { title: 'Activity', pageId: '3df0f0df2799804ab9a4ed0b180d0353' }, 
+    { title: 'Reports', pageId: '3da0f0df27998089b4fddad3764ba62d' }, 
+    { title: 'Changed', pageId: '3e00f0df27998042ac09d612445fd39c' }, 
+    { title: 'Versions', pageId: '4130f0df2799803cb3f2d9eb0798af7a' },
     { title: 'Contact', pageId: '3e00f0df279980d2aa03d77a36f90dca' },
     { title: '🇯🇵 JP', pageId: '3ea0f0df2799805fb72ddc7d6f2184c0' }
   ]
